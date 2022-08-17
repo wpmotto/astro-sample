@@ -13,6 +13,10 @@
     "@astrojs/mdx": "^0.10.0",
     "@astrojs/rss": "^1.0.0",
     "@astrojs/sitemap": "^1.0.0",
+    "@astrojs/preact": "^0.5.2",
+    "@astrojs/tailwind": "^0.2.4",
+    "@tailwindcss/forms": "^0.5.2",
+    "@tailwindcss/typography": "^0.5.4",
     "astro": "^1.0.6"
   }
 }
